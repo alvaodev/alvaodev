@@ -12,12 +12,13 @@
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </p>  
 
-#
+# 
+<h3 align="left">📊 Estatísticas</h3>
 
  <div>
     <a href="https://github.com/alvaodev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvaodev&show_icons=true&theme=dark&include_all_commits=true&count_private=tru"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaodev&layout=compact&langs_count=16&theme=dark"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=alvaodev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"/>
+    <img height="185em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaodev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
 
 #
